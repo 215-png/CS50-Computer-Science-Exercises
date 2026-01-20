@@ -3,7 +3,7 @@
 
 int main(void)
 {
-    
+    \\ enter in cents
     int cents;
     do
     {
